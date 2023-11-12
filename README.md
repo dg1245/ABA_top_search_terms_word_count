@@ -16,7 +16,7 @@ python-version: 3.12
 
 第21行代码填入wanted_word，运行代码即可
 
-result文件夹里会生成2个包含word_count和keyword_rank的csv文件
+result文件夹里会生成2个分别包含word_count和keyword_rank的csv文件
 
 # truncate 使用说明
 
